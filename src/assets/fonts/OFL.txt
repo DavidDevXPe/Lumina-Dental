@@ -1,0 +1,11 @@
+The font files in this directory are distributed under the SIL Open Font License, Version 1.1.
+
+Families:
+- Playfair Display
+- Plus Jakarta Sans
+
+License text and FAQ:
+https://openfontlicense.org
+https://scripts.sil.org/OFL
+
+The font files were obtained from Google Fonts on 2026-10-27 and are served locally by this demo.
